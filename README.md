@@ -31,7 +31,7 @@ I've built RAG pipelines, fine-tuned LLMs, computer vision models, voice AI agen
 ```python
 alezz = {
     "role"      : "AI Engineer & Founder",
-    "company"   : "Suraya AI",
+    "project"   : "Suraya AI",
     "location"  : "Saudi Arabia 🇸🇦",
     "education" : "B.Sc. AI Engineering — Bahçeşehir University, Istanbul",
     "languages" : ["Arabic 🇸🇦", "English 🇬🇧", "Turkish 🇹🇷"],
